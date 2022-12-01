@@ -1,5 +1,7 @@
-for i in range(10):
-          print("hello world")
-          print(f"hello world : {i}")
-for i in range(1,10):
-          print("chotu")
+n=input("enter the number: ")
+i=0
+total=0
+while i< len(n):
+          total+=int(n[i])
+          i=i+1
+print(total)
