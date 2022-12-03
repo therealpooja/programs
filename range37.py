@@ -1,4 +1,4 @@
-name="Shanmukanath Reddy"
+name="Sweta"
 a=len(name)
 print(a)
 b= name.lower()

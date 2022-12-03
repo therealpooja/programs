@@ -1,4 +1,4 @@
-name="Shanmukanath Reddy"
+name="Sweta"
 print(name[0])
 print(name[4])
 print(name[0])
